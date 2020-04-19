@@ -1,0 +1,8 @@
+.navbar-light .navbar-toggler{
+    /*background-color: white;*/
+    border-color: rgba(0,0,0,0);
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("../../assets/menu.svg");
+}

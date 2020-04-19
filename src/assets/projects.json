@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "nombre": "redmi 1",
+    "descripcion": "smartphone 0"
+  },
+  {
+    "id": "2",
+    "nombre": "redmi 2",
+    "descripcion": "smartphone 1"
+  },
+  {
+    "id": "3",
+    "nombre": "redmi 3",
+    "descripcion": "smartphone 4"
+  },
+  {
+    "id": "4",
+    "nombre": "redmi 4",
+    "descripcion": "smartphone 5"
+  },
+  {
+    "id": "5",
+    "nombre": "redmi 5",
+    "descripcion": "smartphone 6"
+  },
+  {
+    "id": "6",
+    "nombre": "redmi 6",
+    "descripcion": "smartphone 7"
+  },
+  {
+    "id": "7",
+    "nombre": "redmi 7",
+    "descripcion": "smartphone 8"
+  },
+  {
+    "id": "8",
+    "nombre": "redmi 8",
+    "descripcion": "smartphone 9"
+  },
+  {
+    "id": "9",
+    "nombre": "redmi 9",
+    "descripcion": "smartphone 10"
+  },
+  {
+    "id": "10",
+    "nombre": "redmi 10",
+    "descripcion": "smartphone 11"
+  }
+]
